@@ -132,7 +132,7 @@ module.exports = function(Role){
             principalType = 'Application'
             break;
           case 'ROLE':
-            principalType = 'Role'
+            principalType = 'MyRole'
             break;
         }
         
