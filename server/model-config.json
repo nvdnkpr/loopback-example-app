@@ -17,9 +17,13 @@
     "dataSource": "db",
     "public": false
   },
-  "Role": {
+  "Application":{
     "dataSource": "db",
     "public": false
+  },
+  "MyRole": {
+    "dataSource": "db",
+    "public": true
   },
   "Car": {
     "dataSource": "db"
